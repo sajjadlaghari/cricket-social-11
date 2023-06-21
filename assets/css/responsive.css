@@ -1,0 +1,409 @@
+@media only screen and (max-width: 1500px) {
+  .apps-scr-right img {
+    width: 100%;
+  }
+  section.apps-scrrns .row:nth-child(2n) .apps-scr-left {
+    left: 50px;
+  }
+  .apps-scr-left h3 {
+    font-size: 46px;
+  }
+  .apps-scr-left a {
+    font-size: 22px;
+  }
+  section.maruque-slide ul li {
+    font-size: 26px;
+    margin: 0 30px;
+  }
+}
+@media only screen and (max-width: 1300px) {
+  section.apps-scrrns .row:nth-child(2n) .apps-scr-left {
+    left: 0;
+  }
+}
+@media only screen and (max-width: 1199px) {
+  .payy-rgt img {
+    width: 100%;
+  }
+  section.faq.load-abs div#nav-tab button {
+    font-size: 22px;
+    margin: 0 25px;
+  }
+  .apps-scr-left h3 {
+    font-size: 40px;
+    line-height: 55px;
+  }
+  section.faq button.accordion-button {
+    font-size: 22px;
+    min-height: 90px;
+  }
+  .apps-scr-left a span {
+    padding: 12px 15px;
+  }
+  .apps-scr-left a {
+    font-size: 20px;
+    padding: 25px 15px;
+  }
+  footer.footer-main {
+    background-position: center;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .full-img img {
+    height: 193px;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .banner-left h1 {
+    font-size: 54px;
+    line-height: 40px;
+  }
+  section.faq.load-abs div#nav-tab {
+    max-width: 100%;
+  }
+  section.faq.load-abs button.accordion-button {
+    min-height: 74px;
+  }
+  .banner-left h3 {
+    font-size: 29px;
+  }
+  section.banner-mian {
+    padding: 150px 0 25px;
+  }
+  .banner-right img {
+    width: 100%;
+  }
+  .banner-left p {
+    font-size: 16px;
+  }
+  .top-header {
+    padding-top: 13px;
+  }
+  nav.navbar.navbar-expand-lg.navbar-light.bg-light.sticky-top {
+    padding: 12px 9px;
+  }
+  div#navbarSupportedContent {
+    position: absolute;
+    top: 30px;
+
+    left: 0;
+    right: 0;
+    border-radius: 0 0 50px 50px;
+    z-index: -1;
+    padding-top: 32px;
+    padding-bottom: 18px;
+  }
+  .marquee {
+    height: 44px;
+  }
+  .about-heading h2 {
+    font-size: 18px;
+  }
+  .our-vision {
+    padding: 0px 0px !important;
+  }
+  .team h5 {
+    font-size: 18px;
+  }
+  .team img {
+    border: 7px solid transparent;
+  }
+  section.apps-scrrns .row {
+    padding: 20px 0;
+  }
+  .apps-scr-left h4 {
+    font-size: 25px;
+    padding: 17px 30px;
+    min-width: 340px;
+    margin-bottom: 18px;
+  }
+  .apps-scr-left h3 {
+    font-size: 30px;
+    line-height: 39px;
+  }
+  .apps-scr-left a {
+    font-size: 16px;
+    padding: 20px 10px;
+  }
+  button.navbar-toggler {
+    background: #0f6fb9;
+    color: #fff;
+    padding: 2px 4px;
+    border: 0;
+  }
+  section.maruque-slide ul li {
+    font-size: 24px;
+  }
+  h2 {
+    font-size: 29px;
+  }
+  p {
+    font-size: 19px;
+  }
+  section.how-play {
+    padding: 30px 0;
+  }
+  section.faq button.accordion-button {
+    font-size: 19px;
+    min-height: 75px;
+  }
+  section.app-btm {
+    padding: 30px 0 30px;
+  }
+  .playstore-btn {
+    display: flex;
+  }
+  section#app-screen .playstore-btn img {
+    margin: 0 9px 0 0;
+    max-width: 130px;
+  }
+  footer.footer-main .col-md-6:first-child {
+    width: 30%;
+  }
+  footer.footer-main .col-md-6:last-child {
+    width: 70%;
+  }
+  .full-img img {
+    height: 177px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .full-img img {
+    height: 139px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .download-wrapper .title p br {
+    display: block;
+  }
+  .video-paly img {
+    width: 100%;
+  }
+  section.faq.load-abs {
+    overflow: hidden;
+    padding-top: 39px;
+  }
+  section.faq.load-abs div#nav-tab {
+    max-width: 100%;
+    margin: 0 auto 20px;
+  }
+  section.faq.load-abs div#nav-tab button.active::before {
+    width: 14px;
+    height: 14px;
+  }
+  section.faq.load-abs button.accordion-button {
+    min-height: 60px;
+  }
+  section.faq.load-abs div#nav-tab button {
+    font-size: 14px;
+    margin: 0 9px;
+  }
+  section.faq.load-abs div#nav-tab button.active::before {
+    bottom: -16px;
+  }
+  .playstore-btn img {
+    margin: 0 5px;
+    max-width: 130px;
+  }
+  .banner-left h1 {
+    font-size: 44px;
+    line-height: 32px;
+  }
+  .banner-left .playstore-btn {
+    margin: 34px 0 27px;
+  }
+  .banner-right img {
+    max-width: 70%;
+    margin: 0 auto;
+    display: table;
+  }
+  section.maruque-slide ul li {
+    font-size: 16px;
+    margin: 0 16px;
+  }
+  .marquee--inner {
+    width: 746vw;
+  }
+  .marquee {
+    height: 37px;
+    padding-top: 3px;
+  }
+  section.apps-scrrns {
+    padding-top: 18px;
+  }
+  .apps-scr-left h4 {
+    font-size: 20px;
+    padding: 12px 20px;
+  }
+  section.apps-scrrns .row:nth-child(2n) .col-md-6:first-child {
+    order: 2;
+  }
+  .apps-scr-right {
+    margin: 20px auto;
+  }
+  section.app-btm .col-md-6:first-child {
+    order: 2;
+    text-align: center;
+  }
+  .apps-scr-left h3 {
+    font-size: 25px;
+    line-height: 33px;
+    min-height: auto;
+    text-align: center;
+  }
+  .playstore-btn {
+    justify-content: center;
+  }
+  section.faq button.accordion-button {
+    font-size: 16px;
+    min-height: 63px;
+  }
+  section.faq h2 {
+    margin-bottom: 18px;
+  }
+  section.faq {
+    padding: 11px 0 71px;
+  }
+  h2 {
+    font-size: 25px;
+  }
+  .apps-scr-left a {
+    font-size: 14px;
+    margin: 0 auto;
+    display: table;
+  }
+  .footer-logo {
+    margin-bottom: 31px;
+  }
+  footer.footer-main {
+    min-height: auto;
+    margin-top: -140px;
+    padding-top: 170px;
+  }
+  .footer-menu span {
+    margin-bottom: 12px;
+    margin-top: 7px;
+    display: block;
+    float: none;
+  }
+  .apps-scr-left h3 img {
+    max-width: 24px;
+  }
+  .copy-right {
+    margin-top: 27px;
+  }
+  footer.footer-main .col-md-6:first-child,
+  footer.footer-main .col-md-6:last-child {
+    width: 100%;
+  }
+  .footer-logo img {
+    margin-top: 50px;
+  }
+  .footer-logo .unicorn-img {
+    margin-top: 20px;
+    width: 110px;
+  }
+  .about-heading h2 {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  .about-para p {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .crickpe-img-left {
+    margin-bottom: 20px;
+  }
+  .right-img {
+    padding-top: 20px;
+  }
+  .our-vision {
+    padding: 0px 0px !important;
+  }
+  .vision-text h4 {
+    text-align: center;
+  }
+  .team {
+    margin-bottom: 20px;
+  }
+  .footer-menu .col-md-4 {
+    margin-bottom: 25px;
+  }
+  .footer-menu .col-md-4:last-child {
+    margin-bottom: 0;
+  }
+  .full-img img {
+    height: 100%;
+  }
+  .scrolling-active .download_wrapper {
+    bottom: 0;
+  }
+  .download_wrapper {
+    display: inline-block;
+    -webkit-backdrop-filter: blur(16.7px);
+    backdrop-filter: blur(16.7px);
+    background-color: #d5e8f4;
+    color: #002e54;
+    text-align: center;
+    padding: 10px 10px;
+    position: fixed;
+    bottom: -150px;
+    width: 100%;
+    z-index: 99;
+    transition: 0.5s all;
+  }
+  .download_wrapper h2 {
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin: 0 auto 10px;
+  }
+  .download_wrapper h2 span {
+    font-size: 22px;
+    color: #eb413d;
+  }
+  .download_wrapper a {
+    border-radius: 10px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    border: solid 1px #052b49;
+    background-color: #002e54;
+    text-decoration: none;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+    width: 100%;
+    display: inline-block;
+    padding: 8px 0;
+  }
+}
+@media only screen and (max-width: 675px) {
+  .prob-icon {
+    display: none;
+  }
+  .responsible {
+    padding: 60px 0 30px;
+  }
+  .responsible .prob-icon img {
+    display: none;
+  }
+  .responsible .prob-cont img {
+    display: block;
+    width: 100%;
+    max-width: 80px;
+    margin-bottom: 20px;
+  }
+  .responsible .prob-cont {
+    padding: 40px 30px;
+  }
+}
+@media only screen and (max-width: 414px) {
+  .responsible .prob-cont {
+    padding: 20px 20px 30px;
+  }
+  section.faq.load-abs div#nav-tab button {
+    font-size: 12px;
+    margin: 0 8px;
+  }
+}

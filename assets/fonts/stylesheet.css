@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'FONTSPRING-BOLD';
+    src: url('FONTSPRINGDEMO-ZuumeRoughBold.eot');
+    src: url('FONTSPRINGDEMO-ZuumeRoughBoldd41d.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-ZuumeRoughBold.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-ZuumeRoughBold.woff') format('woff'),
+        url('FONTSPRINGDEMO-ZuumeRoughBold.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-ZuumeRoughBold.svg#FONTSPRINGDEMO-ZuumeRoughBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING-BOLD-ITALIC';
+    src: url('FONTSPRINGDEMO-ZuumeRoughBoldItalic.eot');
+    src: url('FONTSPRINGDEMO-ZuumeRoughBoldItalicd41d.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-ZuumeRoughBoldItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-ZuumeRoughBoldItalic.woff') format('woff'),
+        url('FONTSPRINGDEMO-ZuumeRoughBoldItalic.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-ZuumeRoughBoldItalic.svg#FONTSPRINGDEMO-ZuumeRoughBoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING-NORMAL';
+    src: url('FONTSPRINGDEMO-ZuumeRoughRegular.eot');
+    src: url('FONTSPRINGDEMO-ZuumeRoughRegulard41d.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-ZuumeRoughRegular.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-ZuumeRoughRegular.woff') format('woff'),
+        url('FONTSPRINGDEMO-ZuumeRoughRegular.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-ZuumeRoughRegular.svg#FONTSPRINGDEMO-ZuumeRoughRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING-NORMAL-ITALIC';
+    src: url('FONTSPRINGDEMO-ZuumeRoughItalic.eot');
+    src: url('FONTSPRINGDEMO-ZuumeRoughItalicd41d.eot?#iefix') format('embedded-opentype'),
+        url('FONTSPRINGDEMO-ZuumeRoughItalic.woff2') format('woff2'),
+        url('FONTSPRINGDEMO-ZuumeRoughItalic.woff') format('woff'),
+        url('FONTSPRINGDEMO-ZuumeRoughItalic.ttf') format('truetype'),
+        url('FONTSPRINGDEMO-ZuumeRoughItalic.svg#FONTSPRINGDEMO-ZuumeRoughItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'phonkcontrast_demo';
+    src: url('phonk_contrast_demo-webfont.woff2') format('woff2'),
+         url('phonk_contrast_demo-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'phonkregular_demo';
+    src: url('phonk_regular_demo-webfont.woff2') format('woff2'),
+         url('phonk_regular_demo-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
